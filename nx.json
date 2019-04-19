@@ -7,5 +7,27 @@
     "tslint.json": "*",
     "nx.json": "*"
   },
-  "projects": {}
+  "projects": {
+    "webapp": {
+      "tags": []
+    },
+    "webapp-e2e": {
+      "tags": []
+    },
+    "admin": {
+      "tags": []
+    },
+    "login": {
+      "tags": []
+    },
+    "platform": {
+      "tags": []
+    },
+    "ptdb": {
+      "tags": []
+    },
+    "sms": {
+      "tags": []
+    }
+  }
 }
