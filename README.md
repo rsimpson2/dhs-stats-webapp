@@ -4,6 +4,8 @@
 
 Sprint Implementation Stretch Goal: **25**
 
+Current Prognosis: **This will not work**
+
 This repository is a workspace that is used for development of the STATS web app. It is not the web app itself, rather a wrapper around the web app and the libraries/packages used. The tools that are used for this workspace setup are:
 
 [Nx](https://nx.dev/ ) - Angular CLI powered modern development
