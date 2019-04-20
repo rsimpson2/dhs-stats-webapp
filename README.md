@@ -1,9 +1,13 @@
 # DHS STATS Workspace
 
+## Version 0.0.0-alpha1
+
+Sprint Implementation Stretch Goal: **25**
+
 This repository is a workspace that is used for development of the STATS web app. It is not the web app itself, rather a wrapper around the web app and the libraries/packages used. The tools that are used for this workspace setup are:
 
-[Nx](https://nx.dev/ ) - Angular CLI powered modern development  
-[Lerna](https://lerna.js.org/) - A tool for managing JavaScript projects with multiple packages  
+[Nx](https://nx.dev/ ) - Angular CLI powered modern development
+[Lerna](https://lerna.js.org/) - A tool for managing JavaScript projects with multiple packages
 [ng-packagr](http://ng-packagr.github.io/ng-packagr/#slide=1) - From Components to Angular Package Format
 
 There is a combination of the options available from each of these tools that will allow for easier local development setup and every day work, and to publish the web app and the libaries/packages (**NOTE** - still don't know what we will call these.)
