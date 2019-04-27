@@ -1,0 +1,15 @@
+{
+  "packages": [
+    "projects/*"
+  ],
+  "version": "independent",
+  "command": {
+    "publish": {
+      "conventionalCommits": true
+    }
+  },
+  "npmClient": "yarn",
+  "npmClientArgs": [
+    "--no-lockfile"
+  ]
+}
