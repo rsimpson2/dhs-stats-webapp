@@ -17,6 +17,20 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "dhs-stats-presentation-ptdb": [
+        "dist/dhs-stats-presentation-ptdb"
+      ],
+      "dhs-stats-presentation-ptdb/*": [
+        "dist/dhs-stats-presentation-ptdb/*"
+      ],
+      "dhs-stats-presentation-sms": [
+        "dist/dhs-stats-presentation-sms"
+      ],
+      "dhs-stats-presentation-sms/*": [
+        "dist/dhs-stats-presentation-sms/*"
+      ]
+    }
   }
 }
